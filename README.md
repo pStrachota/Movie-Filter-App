@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
 ## App description
-This project allows you to filter videos according to certain criteria. Film data is fetched from [this](https://raw.githubusercontent.com/prust/wikipedia-movie-data/master/movies.json) and contains cinematography information from 1900 up to 2018. User can filter movies by title, cast or both. By default, 10 results are displayed - the user can increase or decrease this number using the buttons shown in the pictures below.
+This project allows to filter videos according to certain criteria. Film data is fetched from [this](https://raw.githubusercontent.com/prust/wikipedia-movie-data/master/movies.json) and contains cinematography information from 1900 up to 2018. User can filter movies by title, cast or both. By default, 10 results are displayed - the user can increase or decrease this number using the buttons shown in the pictures below.
 
 ## Screens from the page
 
