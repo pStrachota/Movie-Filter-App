@@ -6,7 +6,7 @@ import { v4 } from 'uuid';
 import {AppDispatch, RootState} from "../app/store";
 import {fetchMovies} from "../app/movieSlice";
 
-function ShowMovieTable(): JSX.Element {
+function ShowMovieTable() {
 
     const dispatch = useDispatch<AppDispatch>();
 
